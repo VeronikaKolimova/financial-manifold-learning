@@ -57,3 +57,20 @@ A comprehensive machine learning project exploring dimensionality reduction tech
 - Comparative study of dimensionality reduction techniques
 - Educational resource for manifold learning
 - Template for financial data visualization projects
+
+##  Результаты
+
+### Сравнение методов снижения размерности
+![2D визуализация методов](images/dim_reduction_comparison.png)
+*Цвета отражают отраслевую принадлежность компаний (8 классов)*
+
+### Лучшая модель классификации
+![Границы решений LLE+RF](images/lle_rf_decision_boundaries.png)
+*LLE + Random Forest: Accuracy = 0.812, F1 (macro) = 0.553*
+
+### Сравнение метрик моделей
+| Метод   | Модель          | Accuracy | F1 (weighted) | F1 (macro) |
+|---------|-----------------|----------|---------------|------------|
+| LLE     | Random Forest   | **0.812**| 0.731         | **0.553**  |
+| UMAP    | Random Forest   | 0.688    | 0.665         | 0.543      |
+| t-SNE   | Random Forest   | 0.688    | 0.562         | 0.257      |
