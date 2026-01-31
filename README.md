@@ -4,8 +4,8 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-green)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/financial-manifold-learning/blob/main/L_04_release_02.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/your-username/financial-manifold-learning/HEAD?labpath=L_04_release_02.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/financial-manifold-learning/blob/main/L_04_release_02.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/financial-manifold-learning/HEAD?labpath=L_04_release_02.ipynb)
 
 **EN:** Comparative study of manifold learning techniques (MDS, t-SNE, UMAP, ISOMAP, LLE) applied to NYSE financial data.
 
