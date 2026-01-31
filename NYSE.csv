@@ -1,0 +1,153 @@
+Company,Name,Exchange,Sector,Industry,Market Cap,P/E Ratio,PEG Ratio,Last Trade Price,Day Change (%),Analyst Target Upside,Name,Symbol,Beta (5y),Beta (1y),Quick Ratio,Current Ratio,Debt to Equity,Debt to Assets,Net Debt to Capital
+PBI,Pitney Bowes,NYSE,Technology,Office Equipment,$1.91B,24.5x,0.22,$11.12 ,-1.30%,52.9% Upside,Pitney Bowes,PBI,1.26,1.35,0.3x,0.8x,-377.10%,62.50%,43.50%
+CXM,Sprinklr,NYSE,Technology,Software & IT Services,$1.90B,17.3x,0.1,$7.77 ,0.40%,15.7% Upside,Sprinklr,CXM,0.78,0.95,1.4x,1.6x,8.90%,4.40%,-21.60%
+DV,DoubleVerify Holdings,NYSE,Technology,Software & IT Services,$1.85B,35.7x,-5.26,$11.28 ,-0.40%,63.1% Upside,DoubleVerify Holdings,DV,0.99,1.07,3.9x,4.4x,9.50%,8%,-5.50%
+FINV,FinVolution Group,NYSE,Technology,Financial Technology (Fintech) & Infrastructure,$1.83B,5.1x,0.15,$7.22 ,-5.40%,53.5% Upside,FinVolution Group,FINV,0.41,0.62,5x,9.7x,7%,4.40%,-44.70%
+RAMP,Liveramp,NYSE,Technology,Software & IT Services,$1.80B,142.8x,0.99,$27.41 ,1.80%,45.9% Upside,Liveramp,RAMP,0.9,1.07,2.7x,2.8x,3.70%,2.80%,-17.90%
+VYX,NCR,NYSE,Technology,Software & IT Services,$1.77B,-24.1x,-0.08,$12.77 ,1.40%,25.3% Upside,NCR,VYX,1.82,1.23,0.7x,1.2x,117%,33.60%,31.60%
+ACVA,ACV Auctions,NYSE,Technology,Software & IT Services,$1.74B,-26.4x,-1.23,$10.12 ,0.20%,77.9% Upside,ACV Auctions,ACVA,1.64,1.17,1.6x,1.6x,50.80%,20%,-4%
+ALIT,Alight,NYSE,Technology,Software & IT Services,$1.73B,-1.6x,0.01,$3.27 ,1.90%,143.9% Upside,Alight,ALIT,1.13,1.22,0.7x,1.2x,68.70%,31.60%,49.20%
+SHCO,Soho House,NYSE,Technology,Software & IT Services,$1.73B,-29.2x,-0.44,$8.86 ,0%,1.6% Upside,Soho House,SHCO,0.69,1.23,0.4x,0.7x,-701.70%,93.60%,54.80%
+COUR,Coursera,NYSE,Technology,Software & IT Services,$1.68B,-32.5x,-0.77,$10.25 ,-8.60%,16.7% Upside,Coursera,COUR,1.4,1.55,2.4x,2.5x,0.80%,0.50%,-40%
+PAR,PAR Technology,NYSE,Technology,Office Equipment,$1.57B,-15.9x,0,$38.70 ,1.40%,99% Upside,PAR Technology,PAR,1.65,1.55,1.2x,1.7x,46.60%,28.80%,15.60%
+TUYA,Tuya,NYSE,Technology,Software & IT Services,$1.55B,57.9x,0.2,$2.58 ,1.60%,24% Upside,Tuya,TUYA,0.45,1.13,9.4x,9.8x,0.40%,0.40%,-55.20%
+ROG,Rogers,NYSE,Technology,Semiconductors & Semiconductor Equipment,$1.51B,-23.7x,0.11,$83.07 ,1.10%,-3.6% Downside,Rogers,ROG,0.46,1.06,2.5x,3.8x,2.80%,2.30%,-8.40%
+PD,Pagerduty,NYSE,Technology,Software & IT Services,$1.49B,-102.2x,-1.32,$16.03 ,-2.70%,15.4% Upside,Pagerduty,PD,0.82,1.43,2.3x,2.4x,206.60%,45.80%,-8.30%
+NABL,NAble,NYSE,Technology,Software & IT Services,$1.48B,807.4x,-5.62,$7.89 ,-0.40%,14.1% Upside,NAble,NABL,0.61,1.12,1x,1.2x,45.90%,26.80%,14.70%
+MLNK,Meridianlink,NYSE,Technology,Financial Technology (Fintech) & Infrastructure,$1.47B,-66.7x,-1.32,$19.93 ,-0.10%,0.4% Upside,Meridianlink,MLNK,0.92,0.98,1.8x,2x,119.10%,49.90%,19.40%
+JMIA,Jumia Tech,NYSE,Technology,Software & IT Services,$1.42B,-7.9x,,$11.56 ,-3.40%,-3% Downside,Jumia Tech,JMIA,2.7,2.11,1.1x,1.4x,23.80%,7.90%,-6.10%
+PHR,Phreesia,NYSE,Technology,Software & IT Services,$1.39B,-56.2x,-0.77,$23.27 ,1.90%,46.1% Upside,Phreesia,PHR,0.68,0.99,1.7x,2.1x,4.30%,3.10%,-6%
+BHE,Benchmark Electronics,NYSE,Technology,Electronic Equipment & Parts,$1.37B,36.6x,-0.83,$38.14 ,-1.10%,20.2% Upside,Benchmark Electronics,BHE,1.06,1.43,1.4x,2.4x,29.80%,16.30%,3.80%
+FUBO,Fubotv,NYSE,Technology,Software & IT Services,$1.36B,15.6x,0.12,$3.96 ,0.20%,7.3% Upside,Fubotv,FUBO,2.39,-1.46,0.6x,0.7x,93.70%,31.50%,5.10%
+ATEN,A10 Network,NYSE,Technology,Software & IT Services,$1.32B,25.2x,1.22,$18.31 ,-1%,24.7% Upside,A10 Network,ATEN,1.27,1.24,3.9x,4.2x,112.70%,37.80%,-8.90%
+FSLY,Fastly,NYSE,Technology,Software & IT Services,$1.30B,-8.4x,-0.53,$8.83 ,-2.40%,-13.7% Downside,Fastly,FSLY,1.3,1.98,1.4x,1.5x,43.50%,28%,5.40%
+PRG,PROG Holdings,NYSE,Technology,Financial Technology (Fintech) & Infrastructure,$1.27B,6.3x,0.06,$32.08 ,1.60%,24.9% Upside,PROG Holdings,PRG,1.76,1.19,3x,5.3x,90.20%,41.50%,19.80%
+TIXT,TELUS International,NYSE,Technology,Software & IT Services,$1.25B,-3.2x,0,$4.48 ,-0.20%,0.2% Upside,TELUS International,TIXT,0.94,1.26,0.7x,0.8x,92.10%,35.10%,50%
+IDT,IDT,NYSE,Technology,Telecommunications Services,$1.25B,16.6x,0.1,$49.56 ,-0.70%,72.7% Upside,IDT,IDT,0.74,0.92,0.9x,1.7x,0.70%,0.30%,-13.80%
+YALA,Yalla,NYSE,Technology,Software & IT Services,$1.18B,9.3x,0.57,$7.51 ,0.10%,33.2% Upside,Yalla,YALA,0.79,1.39,7.6x,8x,0.10%,0.10%,-59.60%
+CTS,CTS Corp,NYSE,Technology,Electronic Equipment & Parts,$1.17B,18.7x,0.97,$39.67 ,-0.20%,8.8% Upside,CTS Corp,CTS,0.84,1.49,1.9x,2.6x,20.70%,14.50%,1.10%
+ATUS,Altice USA,NYSE,Technology,Telecommunications Services,$1.17B,-4.2x,0.01,$2.50 ,2.90%,20% Upside,Altice USA,ATUS,1.6,0.89,0.2x,0.3x,-4084.60%,80.80%,94.90%
+DAO,Youdao,NYSE,Technology,Software & IT Services,$1.15B,35.7x,0.13,$9.61 ,-1.60%,33.5% Upside,Youdao,DAO,0.36,0.97,0.4x,0.5x,-91%,99.30%,12.20%
+PRO,PROS,NYSE,Technology,Software & IT Services,$1.11B,-114.2x,-1.97,$22.93 ,-0.30%,1.3% Upside,PROS,PRO,1.05,1.5,1.3x,1.4x,-405.20%,77.60%,11.40%
+SEMR,Semrush Holdings,NYSE,Technology,Software & IT Services,$1.09B,-752.6x,7.88,$7.35 ,1.50%,50.3% Upside,Semrush Holdings,SEMR,1.61,1.73,2.2x,2.4x,4.40%,3%,-21.90%
+LUXE,LuxExperience BV DRC,NYSE,Technology,Software & IT Services,$1.08B,1.2x,0,$7.90 ,0.20%,14.2% Upside,LuxExperience BV DRC,LUXE,1.09,2.28,0.9x,2.5x,16.20%,9.60%,-32.40%
+YEXT,Yext,NYSE,Technology,Software & IT Services,$1.04B,-75.5x,-1.3,$8.42 ,-0.70%,15.8% Upside,Yext,YEXT,0.92,1,0.9x,1x,121.40%,29.60%,0.50%
+CABO,Cable One Inc,NYSE,Technology,Telecommunications Services,$1B,-2x,0.01,$178.50 ,4.90%,-12.2% Downside,Cable One Inc,CABO,0.88,0.53,0.3x,0.4x,261.70%,60.60%,75.10%
+BLSH,Bullish,NYSE,Technology,Financial Technology (Fintech) & Infrastructure,$9.47B,-48.2x,,$64.81 ,-4.60%,-8.2% Downside,Bullish,BLSH,blank,blank,3.7x,24.6x,25.10%,19.80%,1.90%
+ESTC,Elastic,NYSE,Technology,Software & IT Services,$9.09B,-108.7x,0.46,$85.58 ,-2.30%,41.4% Upside,Elastic,ESTC,1.05,1.53,1.9x,2.1x,61.20%,23.50%,-9.30%
+EPAM,EPAM Systems,NYSE,Technology,Software & IT Services,$8.58B,22x,33.92,$154.12 ,0.90%,39.5% Upside,EPAM Systems,EPAM,1.66,1.69,2.9x,3.2x,4.40%,3.50%,-10.20%
+KVYO,Klaviyo,NYSE,Technology,Software & IT Services,$7.77B,-133.2x,-1.74,$25.89 ,0%,73.9% Upside,Klaviyo,KVYO,1.27,1.46,4.6x,5x,9%,7.10%,-8.70%
+INFA,Informatica,NYSE,Technology,Software & IT Services,$7.59B,-810.5x,9.48,$24.92 ,0.20%,0.4% Upside,Informatica,INFA,1.14,0.39,1.8x,2x,77.90%,35.40%,5.90%
+ADT,ADT,NYSE,Technology,Communications & Networking,$7.26B,12.6x,-3.23,$8.80 ,0.60%,7.5% Upside,ADT,ADT,1.06,0.52,0.3x,0.5x,216.40%,49.60%,51.50%
+ONTO,Onto Innovation,NYSE,Technology,Semiconductors & Semiconductor Equipment,$7.04B,36.1x,1.52,$143.71 ,2.80%,-4.3% Downside,Onto Innovation,ONTO,1.6,2.03,7.6x,9.6x,0.70%,0.60%,-14.10%
+KD,Kyndryl Holdings,NYSE,Technology,Software & IT Services,$6.99B,25.7x,0.09,$30.25 ,-0.90%,40.3% Upside,Kyndryl Holdings,KD,1.94,1.42,0.7x,1.1x,300.10%,35.10%,23.50%
+PATH,UiPath,NYSE,Technology,Software & IT Services,$6.85B,340.4x,2.71,$12.90 ,1.20%,0.8% Upside,UiPath,PATH,1.07,1.38,2.5x,2.8x,4.80%,3.10%,-20.80%
+DLB,Dolby Labs,NYSE,Technology,Software & IT Services,$6.83B,26.4x,1.08,$71.26 ,-0.40%,36.5% Upside,Dolby Labs,DLB,0.92,0.82,3.1x,3.4x,1.50%,1.20%,-9.40%
+LUMN,Lumen Technologies,NYSE,Technology,Telecommunications Services,$6.73B,-5.5x,-0.12,$6.56 ,2.80%,-23.5% Downside,Lumen Technologies,LUMN,1.44,1.99,0.8x,2.1x,-3053.90%,55.10%,68.50%
+REZI,Resideo Tech,NYSE,Technology,Communications & Networking,$6.41B,-7.6x,0.01,$43.11 ,0%,-3.5% Downside,Resideo Tech,REZI,2.24,1.54,0.6x,1x,87.30%,26.80%,17.10%
+ARW,Arrow Electronics,NYSE,Technology,Semiconductors & Semiconductor Equipment,$6.26B,13.8x,-0.8,$121.59 ,-0.70%,-4.3% Downside,Arrow Electronics,ARW,1.09,1.12,1x,1.4x,44%,11.60%,28.50%
+KBR,KBR,NYSE,Technology,Software & IT Services,$6.11B,15.6x,0.18,$47.42 ,0.60%,28.8% Upside,KBR,KBR,0.69,0.8,1x,1.1x,190.20%,41.70%,27%
+VNT,Vontier,NYSE,Technology,Electronic Equipment & Parts,$6.07B,15.7x,12.25,$41.41 ,-1%,18.5% Upside,Vontier,VNT,1.31,1.24,0.7x,1.1x,177.10%,48.90%,21.30%
+S,SentinelOne,NYSE,Technology,Software & IT Services,$6.02B,-13.5x,0.33,$17.95 ,1%,33.9% Upside,SentinelOne,S,0.76,1.26,1.7x,1.8x,0.80%,0.50%,-13.10%
+BILL,Bill Com,NYSE,Technology,Software & IT Services,$5.42B,-742.8x,3.15,$53.34 ,-2%,4.1% Upside,Bill Com,BILL,1.42,1.88,0.6x,1.6x,45.60%,17.70%,-5.90%
+INGM,Ingram Micro Holding,NYSE,Technology,Software & IT Services,$5.17B,18.3x,-0.85,$22 ,-0.90%,12% Upside,Ingram Micro Holding,INGM,blank,blank,0.9x,1.4x,103.30%,21.50%,36.70%
+CWAN,Clearwater Analytics Holdings,NYSE,Technology,Software & IT Services,$5.05B,11.4x,0,$17.54 ,-0.30%,77.1% Upside,Clearwater Analytics Holdings,CWAN,0.69,0.98,1.7x,2x,46.50%,30.60%,13.90%
+WK,Workiva Inc,NYSE,Technology,Software & IT Services,$4.92B,-73.6x,-2.64,$87.80 ,0.40%,8.9% Upside,Workiva Inc,WK,0.87,0.7,1.4x,1.5x,-1193%,59%,-0.40%
+BDC,Belden,NYSE,Technology,Communications & Networking,$4.68B,21.5x,1.3,$118 ,0.40%,22.3% Upside,Belden,BDC,1.26,1.43,1.2x,2x,113.40%,41.20%,17.40%
+BOX,Box Inc,NYSE,Technology,Software & IT Services,$4.66B,25.8x,0.44,$32.15 ,-1.10%,20.7% Upside,Box Inc,BOX,0.91,0.66,1.1x,1.2x,331.90%,46.20%,-0.10%
+ZETA,Zeta Global Holdings,NYSE,Technology,Software & IT Services,$4.60B,-107.6x,-1.68,$19.33 ,0.70%,42.3% Upside,Zeta Global Holdings,ZETA,1.29,2.82,3.2x,3.3x,31%,19%,-3.10%
+TDS,Telephone&Data Systems,NYSE,Technology,Telecommunications Services,$4.54B,-41x,-0.49,$39.53 ,0.70%,31.6% Upside,Telephone&Data Systems,TDS,0.39,0.95,1.5x,1.8x,87.20%,37.60%,40.20%
+ST,Sensata Tech,NYSE,Technology,Electronic Equipment & Parts,$4.52B,42x,0.03,$31.05 ,1.30%,20.9% Upside,Sensata Tech,ST,1.15,1.71,1.7x,2.7x,111.10%,44%,33.40%
+AD,Array Digital Infra,NYSE,Technology,Telecommunications Services,$4.38B,-175x,1.28,$50.70 ,0.90%,65.1% Upside,Array Digital Infra,AD,0.18,0.59,1.5x,1.9x,82.30%,36.70%,42.90%
+COMP,Compass,NYSE,Technology,Software & IT Services,$4.37B,-78.8x,-1.05,$7.83 ,3.70%,19.9% Upside,Compass,COMP,2.58,0.88,0.6x,0.7x,75.40%,34.30%,7.40%
+UZE,Array Digital Infra Prf,NYSE,Technology,Telecommunications Services,$4.34B,-177.3x,,$18.38 ,-0.70%,,Array Digital Infra Prf,UZE,0.18,0.59,blank,blank,blank,blank,blank
+GBTG,Global Business Travel,NYSE,Technology,Software & IT Services,$4.24B,-65.3x,-1.46,$8 ,0%,27.5% Upside,Global Business Travel,GBTG,0.74,1.29,1.5x,1.7x,125.40%,39.10%,15.60%
+YOU,Clear Secure,NYSE,Technology,Software & IT Services,$4.22B,20x,0.19,$31.77 ,0.70%,3.5% Upside,Clear Secure,YOU,1.22,0.26,0.8x,0.9x,90.80%,9.70%,-9.80%
+QTWO,Q2 Holdings,NYSE,Technology,Software & IT Services,$4.22B,982.9x,9,$67.61 ,1.30%,64.9% Upside,Q2 Holdings,QTWO,1.47,1.61,0.8x,0.9x,92.30%,38.90%,0.10%
+PAY,Paymentus,NYSE,Technology,Financial Technology (Fintech) & Infrastructure,$4.07B,73.7x,1,$32.48 ,4.60%,19.7% Upside,Paymentus,PAY,1.51,1.14,4.3x,4.6x,1.60%,1.30%,-6.60%
+CALX,Calix,NYSE,Technology,Communications & Networking,$3.89B,-145.1x,0.12,$59.51 ,-2.40%,11.4% Upside,Calix,CALX,1.32,1.27,2.9x,4.5x,0.80%,0.60%,-7.30%
+WOLF,Wolfspeed,NYSE,Technology,Semiconductors & Semiconductor Equipment,$3.83B,-2.2x,0,$24.37 ,-1.30%,,Wolfspeed,WOLF,blank,blank,0.2x,0.4x,-1497.70%,97.70%,81.90%
+VIA,Via Transportation,NYSE,Technology,Software & IT Services,$3.65B,-8.1x,,$46 ,-3.10%,,Via Transportation,VIA,blank,blank,1.9x,2.1x,40.90%,22.20%,0.20%
+ATHM,Autohome ADR,NYSE,Technology,Software & IT Services,$3.41B,16.6x,-0.84,$28.43 ,-0.70%,0.9% Upside,Autohome ADR,ATHM,0.08,0.72,7.7x,7.8x,0.10%,0.10%,-84.30%
+DOCN,DigitalOcean Holdings,NYSE,Technology,Software & IT Services,$3.40B,28.5x,0.29,$37.37 ,-3.50%,11.7% Upside,DigitalOcean Holdings,DOCN,1.76,1.76,2.1x,2.3x,-1006.80%,102.60%,27.80%
+ARX,Accelerant Holdings,NYSE,Technology,Software & IT Services,$3.28B,,,$14.90 ,8.70%,71.1% Upside,Accelerant Holdings,ARX,blank,blank,29.4x,30.3x,26.30%,1.70%,-34.10%
+ASAN,Asana,NYSE,Technology,Software & IT Services,$3.22B,-15.4x,-0.7,$13.65 ,1.30%,24.2% Upside,Asana,ASAN,1.12,1.41,1.3x,1.4x,114.70%,29.20%,-6.10%
+NATL,NCR Atleos,NYSE,Technology,Financial Technology (Fintech) & Infrastructure,$2.91B,23x,0.14,$39.48 ,0.40%,8.1% Upside,NCR Atleos,NATL,blank,1.13,0.5x,1x,866.20%,52.40%,45.60%
+GENI,Genius Sports,NYSE,Technology,Software & IT Services,$2.85B,-37x,-1.84,$11.95 ,0.10%,25.5% Upside,Genius Sports,GENI,1.85,0.7,2.1x,2.4x,4.20%,3.30%,-6.20%
+GRND,Grindr,NYSE,Technology,Software & IT Services,$2.71B,-40.1x,-2.69,$14.14 ,-4.20%,60% Upside,Grindr,GRND,0.24,0.63,2.3x,2.5x,153.30%,52.50%,5%
+BBAI,BigBearai Holdings,NYSE,Technology,Software & IT Services,$2.67B,-4.4x,0.07,$7.19 ,-1.10%,-16.6% Downside,BigBearai Holdings,BBAI,3.19,3.4,1.9x,1.9x,42.30%,18.80%,-10.70%
+BB,BlackBerry,NYSE,Technology,Software & IT Services,$2.66B,135.6x,1.51,$4.50 ,-5.30%,5.9% Upside,BlackBerry,BB,1.21,1.02,1.8x,2.2x,30.50%,18.70%,-1.80%
+GLOB,Globant SA,NYSE,Technology,Software & IT Services,$2.65B,24.6x,-0.64,$60.23 ,1.30%,51.1% Upside,Globant SA,GLOB,1.17,1.37,1.5x,1.7x,24.50%,15.80%,11.50%
+AI,C3.ai,NYSE,Technology,Software & IT Services,$2.64B,-7.2x,0.5,$19.16 ,5%,-19.8% Downside,C3.ai,AI,1.95,2.04,7.4x,7.6x,7.80%,6.50%,-26.80%
+RNG,Ringcentral Inc,NYSE,Technology,Software & IT Services,$2.54B,-209.8x,-2.52,$28.02 ,0.50%,14.1% Upside,Ringcentral Inc,RNG,1.33,1.48,0.5x,0.6x,-454.90%,81.40%,26.60%
+DXC,DXC Technology,NYSE,Technology,Software & IT Services,$2.47B,6.8x,0.02,$13.80 ,1.50%,8.7% Upside,DXC Technology,DXC,1.13,1.06,0.9x,1.2x,139.90%,35.70%,39.70%
+IHS,IHS Holding,NYSE,Technology,Telecommunications Services,$2.26B,21.3x,0.19,$6.73 ,-0.90%,28.2% Upside,IHS Holding,IHS,0.87,0.88,1.1x,1.5x,-3896.70%,85.40%,52.90%
+VSH,Vishay Intertechnology,NYSE,Technology,Semiconductors & Semiconductor Equipment,$2.19B,-24.9x,0.15,$16.15 ,2.10%,-13.4% Downside,Vishay Intertechnology,VSH,1.16,1.95,1.3x,2.7x,49.70%,24.60%,18.20%
+DBD,Diebold Nixdorf,NYSE,Technology,"Computers, Phones & Household Electronics",$2.13B,-170.6x,1.58,$58.21 ,1.70%,32.3% Upside,Diebold Nixdorf,DBD,1.59,1.21,0.7x,1.4x,96.20%,28.40%,24.60%
+ASGN,ASGN,NYSE,Technology,Software & IT Services,$2.13B,15.4x,-0.63,$48.63 ,1.50%,16.2% Upside,ASGN,ASGN,0.93,0.6,1.9x,2.1x,70.40%,34.60%,33.90%
+TDC,Teradata,NYSE,Technology,Software & IT Services,$2.10B,19.7x,0.24,$22.18 ,1%,8% Upside,Teradata,TDC,0.77,0.91,0.7x,0.8x,331.30%,33.60%,8%
+KN,Knowles Cor,NYSE,Technology,Electronic Equipment & Parts,$2.07B,79.7x,0.66,$24.05 ,0%,-2.3% Downside,Knowles Cor,KN,1.53,1.71,1.2x,2x,28.30%,19.40%,4.90%
+YELP,Yelp,NYSE,Technology,Software & IT Services,$2.01B,14.6x,0.8,$31.81 ,0.30%,6.9% Upside,Yelp,YELP,0.98,0.38,3x,3.3x,4.10%,3.10%,-13.90%
+T,AT&T,NYSE,Technology,Telecommunications Services,$193.49B,16.1x,13.81,$27.06 ,0.20%,18% Upside,AT&T,T,0.62,0.34,0.5x,0.8x,123.20%,37.50%,38%
+NOW,ServiceNow Inc,NYSE,Technology,Software & IT Services,$189.33B,114.8x,2.68,$912.36 ,0.20%,27.9% Upside,ServiceNow Inc,NOW,0.92,1.56,0.9x,1.1x,22%,10.90%,-1.90%
+VZ,Verizon,NYSE,Technology,Telecommunications Services,$184.13B,10.2x,0.16,$43.67 ,0.60%,9.3% Upside,Verizon,VZ,0.37,0.27,0.4x,0.6x,167.40%,45.60%,47.60%
+ANET,Arista Networks,NYSE,Technology,Communications & Networking,$182.87B,57.3x,1.73,$145.50 ,0.70%,10% Upside,Arista Networks,ANET,1.48,2.13,2.6x,3.3x,0%,0%,-4.90%
+ACN,Accenture,NYSE,Technology,Software & IT Services,$152.80B,20.2x,3.09,$245.32 ,0.40%,16.8% Upside,Accenture,ACN,1.28,0.72,1.3x,1.4x,25.40%,12.50%,-2.10%
+APH,Amphenol,NYSE,Technology,Electronic Equipment & Parts,$149.22B,49x,0.94,$122.22 ,-1.10%,-2.5% Downside,Amphenol,APH,1.18,1.59,1.3x,2x,69.50%,31.40%,3.10%
+SPOT,Spotify Tech,NYSE,Technology,Software & IT Services,$140.03B,152.6x,2.4,$680.50 ,-3.80%,12% Upside,Spotify Tech,SPOT,1.67,1.11,1.2x,1.5x,37%,18.20%,-3.40%
+SE,Sea,NYSE,Technology,Software & IT Services,$109.47B,97.3x,0.14,$184.91 ,0.40%,10.4% Upside,Sea,SE,1.54,1.33,0.8x,1.6x,42.80%,16.50%,-4.60%
+DELL,Dell Tech,NYSE,Technology,"Computers, Phones & Household Electronics",$94.32B,20.5x,0.97,$140.74 ,-4.50%,8% Upside,Dell Tech,DELL,1.13,1.92,0.4x,0.8x,-1067.20%,33.10%,18.20%
+RBLX,Roblox,NYSE,Technology,Software & IT Services,$85.05B,-86.4x,-6,$122.69 ,-8.10%,25.3% Upside,Roblox,RBLX,1.64,1.12,0.8x,1x,528.70%,22.80%,-0.90%
+SNOW,Snowflake,NYSE,Technology,Software & IT Services,$79.64B,-57.2x,1.56,$235.09 ,-2.30%,14% Upside,Snowflake,SNOW,1.21,1.41,1.4x,1.5x,113.10%,32.80%,-1.10%
+NET,Cloudflare,NYSE,Technology,Software & IT Services,$75.51B,-638x,52.03,$216.67 ,-3.50%,5.4% Upside,Cloudflare,NET,1.99,1.88,5x,5.1x,279.30%,62.20%,-0.60%
+MSI,Motorola,NYSE,Technology,Communications & Networking,$75.45B,36.5x,0.8,$452.90 ,1.10%,12.6% Upside,Motorola,MSI,0.97,0.77,1.4x,1.7x,420%,50.80%,6.10%
+GLW,Corning,NYSE,Technology,Electronic Equipment & Parts,$71.58B,88.9x,0.99,$83.56 ,1.30%,-7.2% Downside,Corning,GLW,1.13,1.21,0.7x,1.5x,73.60%,29.60%,9.10%
+TEL,TE Connectivity,NYSE,Technology,Electronic Equipment & Parts,$65.25B,45.9x,-0.78,$220.84 ,-0.10%,1.9% Upside,TE Connectivity,TEL,1.25,1.36,0.8x,1.5x,48.40%,24.40%,7.70%
+GRMN,Garmin,NYSE,Technology,Communications & Networking,$49.48B,31.7x,2.19,$257.06 ,-0.30%,-21.5% Downside,Garmin,GRMN,0.99,1.07,1.9x,3x,2.30%,1.80%,-5.20%
+FICO,Fair Isaac,NYSE,Technology,Software & IT Services,$44.42B,72.6x,1.68,"$1,850.65 ",3.70%,6% Upside,Fair Isaac,FICO,1.35,1.38,0.8x,0.9x,-200.40%,150.40%,6.70%
+UI,Ubiquiti,NYSE,Technology,Communications & Networking,$40.07B,56.5x,0.54,$662.37 ,-2.30%,-32.1% Downside,Ubiquiti,UI,1.44,1.56,0.6x,1.7x,44.50%,20.30%,0.40%
+RDDT,Reddit,NYSE,Technology,Software & IT Services,$38.78B,179.6x,1.76,$207.20 ,3.10%,8.6% Upside,Reddit,RDDT,blank,2.16,11.7x,12x,1.10%,1%,-4.50%
+RKT,Rocket,NYSE,Technology,Financial Technology (Fintech) & Infrastructure,$37.46B,"-2,390x",,$17.80 ,-3.10%,-11.1% Downside,Rocket,RKT,2.24,-0.2,8x,28.6x,blank,67%,24.20%
+TME,Tencent Music Entertainment Group,NYSE,Technology,Software & IT Services,$36.23B,24.6x,0.3,$22.90 ,-0.20%,26.3% Upside,Tencent Music Entertainment Group,TME,0.5,1.01,1.6x,1.9x,4.50%,3.60%,-6.70%
+FIS,Fidelity National Info,NYSE,Technology,Financial Technology (Fintech) & Infrastructure,$34.85B,232.2x,-2.53,$66.71 ,0.40%,27.3% Upside,Fidelity National Info,FIS,1.06,0.34,0.4x,0.6x,91.50%,38.90%,26.60%
+CRCL,Circle Internet,NYSE,Technology,Financial Technology (Fintech) & Infrastructure,$33.74B,-24.5x,,$145.78 ,-2.60%,11.1% Upside,Circle Internet,CRCL,blank,blank,0x,1x,9.30%,0.30%,-3%
+DD,DuPont De Nemours,NYSE,Technology,Electronic Equipment & Parts,$33.38B,471.2x,-3.45,$79.72 ,-1.60%,13.2% Upside,DuPont De Nemours,DD,1.07,1.35,0.9x,1.4x,32.70%,21%,14.60%
+HPE,Hewlett Packard,NYSE,Technology,"Computers, Phones & Household Electronics",$32.23B,28.4x,-0.72,$24.43 ,-0.20%,6.3% Upside,Hewlett Packard,HPE,1.46,1.91,0.3x,1x,97%,30.70%,35.70%
+KEYS,Keysight Technologies,NYSE,Technology,Electronic Equipment & Parts,$29.79B,55.4x,-1.38,$173.35 ,-1%,9.6% Upside,Keysight Technologies,KEYS,1.18,1.53,2.1x,3.6x,48.70%,26%,0.40%
+PSTG,Pure Storage Inc,NYSE,Technology,"Computers, Phones & Household Electronics",$28.55B,212.7x,40.94,$86.88 ,-1.50%,-0.6% Downside,Pure Storage Inc,PSTG,1.22,2.04,1.3x,1.6x,17.10%,5.60%,-4.80%
+TDY,Teledyne Technologies,NYSE,Technology,Electronic Equipment & Parts,$27.55B,32.3x,-24.4,$587.62 ,0.90%,4.2% Upside,Teledyne Technologies,TDY,1.12,0.98,0.9x,1.7x,25.20%,17.30%,7.80%
+MTD,Mettler-Toledo,NYSE,Technology,Office Equipment,$27.07B,33.4x,3.44,"$1,314.04 ",1%,-3.2% Downside,Mettler-Toledo,MTD,1.38,1.09,0.7x,1.1x,-843.90%,64.20%,7.90%
+FIG,Figma,NYSE,Technology,Software & IT Services,$25.98B,104.8x,,$53.04 ,2.20%,31% Upside,Figma,FIG,blank,blank,3.1x,3.3x,4.50%,3.20%,-5.80%
+LDOS,Leidos,NYSE,Technology,Software & IT Services,$25.09B,18.5x,0.07,$195.58 ,1.40%,2% Upside,Leidos,LDOS,0.72,0.73,1.3x,1.6x,121.10%,42.10%,16.20%
+HPQ,HP Inc,NYSE,Technology,"Computers, Phones & Household Electronics",$24.90B,9.6x,-2.93,$26.64 ,0.60%,7.2% Upside,HP Inc,HPQ,1.3,1.32,0.3x,0.7x,-1195.90%,27%,22.10%
+HUBS,HubSpot Inc,NYSE,Technology,Software & IT Services,$23.81B,"-1,980x",-43.29,$451.87 ,1.50%,49.8% Upside,HubSpot Inc,HUBS,1.58,1.65,1.5x,1.8x,13.60%,7.60%,-5%
+IOT,Samsara,NYSE,Technology,Software & IT Services,$22.43B,-249.2x,-3.65,$39.10 ,-0.10%,24% Upside,Samsara,IOT,1.6,1.92,1.2x,1.5x,6.40%,3.50%,-2.90%
+IONQ,IONQ,NYSE,Technology,Software & IT Services,$21.81B,-36.1x,0.28,$73.28 ,5.30%,-7.9% Downside,IONQ,IONQ,2.6,2.62,7x,7.8x,1.60%,1.40%,-2.60%
+TYL,Tyler Technologies,NYSE,Technology,Software & IT Services,$21.75B,71.8x,1.67,$502.74 ,0.90%,35.5% Upside,Tyler Technologies,TYL,0.89,0.6,1x,1x,17.70%,11.80%,-1.10%
+PINS,Pinterest,NYSE,Technology,Software & IT Services,$21.72B,11.6x,0.01,$31.95 ,0.20%,37.7% Upside,Pinterest,PINS,0.8,1.15,8.5x,8.8x,2.90%,2.50%,-11%
+JBL,Jabil Circuit,NYSE,Technology,Electronic Equipment & Parts,$21.69B,34.2x,-0.75,$202.08 ,-6.30%,24.4% Upside,Jabil Circuit,JBL,1.26,1.53,0.5x,1x,221.90%,18.20%,5.40%
+CIEN,Ciena Corp,NYSE,Technology,Communications & Networking,$21.36B,154.6x,42.84,$151.45 ,-0.80%,-14.2% Downside,Ciena Corp,CIEN,1.15,1.86,2.2x,3.3x,56.90%,27.60%,1.20%
+TOST,Toast,NYSE,Technology,Software & IT Services,$21.36B,111.1x,0.4,$36.64 ,1.40%,39.6% Upside,Toast,TOST,1.95,1.34,2x,2.6x,1%,0.70%,-7.80%
+IT,Gartner,NYSE,Technology,Software & IT Services,$19.48B,16x,0.29,$257.20 ,0%,10.2% Upside,Gartner,IT,1.2,0.78,1x,1.1x,186.80%,34.40%,2.90%
+GWRE,Guidewire,NYSE,Technology,Software & IT Services,$19.44B,284.4x,0.23,$230 ,-0.40%,22% Upside,Guidewire,GWRE,1.21,0.93,2.7x,2.8x,49.10%,26.30%,-2.30%
+GDDY,Godaddy Inc,NYSE,Technology,Software & IT Services,$18.69B,24.3x,-0.45,$135 ,0.70%,37.8% Upside,Godaddy Inc,GDDY,0.98,0.75,0.4x,0.6x,959.90%,46.90%,11.60%
+RBRK,Rubrik,NYSE,Technology,Software & IT Services,$16.35B,-33.3x,-0.45,$82.82 ,-1.30%,39.5% Upside,Rubrik,RBRK,blank,1.68,1.6x,1.8x,-206.90%,48.90%,-2%
+U,Unity Software,NYSE,Technology,Software & IT Services,$16.01B,-35.8x,-0.86,$37.89 ,-3.10%,-5% Downside,Unity Software,U,2.32,2.23,2.6x,2.7x,68.20%,34.90%,3.10%
+TWLO,Twilio,NYSE,Technology,Software & IT Services,$15.79B,806.2x,7.47,$102.94 ,-2.30%,27.3% Upside,Twilio,TWLO,1.25,1.45,4.3x,4.9x,13.70%,11.20%,-8.60%
+KLAR,Klarna,NYSE,Technology,Software & IT Services,$15.35B,-142x,32.69,$40.69 ,-0.10%,,Klarna,KLAR,blank,blank,17.5x,17.8x,32.40%,4.20%,-36.90%
+ALLE,Allegion PLC,NYSE,Technology,Communications & Networking,$15.22B,24.7x,1.65,$177.29 ,-0.20%,-1.6% Downside,Allegion PLC,ALLE,1.08,0.75,1.6x,2.3x,124.80%,45.40%,9.10%
+DT,Dynatrace Inc,NYSE,Technology,Software & IT Services,$14.95B,30.9x,0.14,$49.57 ,-0.60%,29.1% Upside,Dynatrace Inc,DT,0.88,1.18,1.3x,1.5x,3.30%,2.20%,-8.40%
+SNAP,Snap,NYSE,Technology,Software & IT Services,$14.43B,-26x,-0.47,$8.54 ,3.90%,6.5% Upside,Snap,SNAP,0.71,0.71,3.7x,3.9x,202.60%,56.70%,7.20%
+YMM,Full Truck Alliance Co,NYSE,Technology,Software & IT Services,$13.99B,24.5x,0.36,$13.38 ,-0.10%,13.8% Upside,Full Truck Alliance Co,YMM,0.2,0.85,6.3x,8.9x,0.10%,0.10%,-17%
+DOCS,Doximity,NYSE,Technology,Software & IT Services,$13.72B,62.7x,1.29,$73.26 ,1.80%,-4.1% Downside,Doximity,DOCS,1.38,1.61,6.2x,6.5x,1.20%,1%,-5.90%
+QXO,QXO Inc,NYSE,Technology,Software & IT Services,$13.63B,-80.8x,-1.13,$20.23 ,1.60%,48.3% Upside,QXO Inc,QXO,2.2,0.56,1.8x,3x,41.50%,24%,10.30%
+FN,Fabrinet,NYSE,Technology,Electronic Equipment & Parts,$13.08B,39.9x,2.92,$366 ,-1%,-5.2% Downside,Fabrinet,FN,1.05,1.79,2.1x,3x,0.30%,0.20%,-7.20%
+SNX,TD Synnex,NYSE,Technology,"Computers, Phones & Household Electronics",$12.92B,17.1x,0.91,$158.66 ,-3.30%,10.6% Upside,TD Synnex,SNX,1.33,1.22,0.6x,1.2x,55.60%,14.80%,21.30%
+BAH,Booz Allen Hamilton,NYSE,Technology,Software & IT Services,$12.82B,12.8x,0.16,$104.02 ,0.90%,16.2% Upside,Booz Allen Hamilton,BAH,0.41,0.36,1.7x,1.8x,393%,58.40%,21.20%
+CACI,CACI,NYSE,Technology,Software & IT Services,$11.66B,23.7x,1.07,$530.23 ,2.20%,8.4% Upside,CACI,CACI,0.63,0.31,1.3x,1.5x,85.70%,38.60%,23%
+PAYC,Paycom,NYSE,Technology,Software & IT Services,$11.36B,27.3x,-2.88,$201.86 ,0.20%,22.6% Upside,Paycom,PAYC,0.83,0.86,0.3x,1.3x,4.50%,2%,-3.70%
+QBTS,D Wave Quantum,NYSE,Technology,Software & IT Services,$11.18B,-29.9x,0.2,$32.70 ,11.90%,-35.8% Downside,D Wave Quantum,QBTS,1.48,1.96,42.6x,43x,5.80%,4.70%,-8.50%
+PCOR,Procore Technologies,NYSE,Technology,Software & IT Services,$10.92B,-75.6x,1.46,$72.69 ,1.30%,14.2% Upside,Procore Technologies,PCOR,0.9,1.68,1.2x,1.3x,5.90%,3.60%,-4.90%
+DAY,Dayforce,NYSE,Technology,Software & IT Services,$10.89B,229.8x,,$68.96 ,0%,1.5% Upside,Dayforce,DAY,1.18,1.22,0.2x,1x,45.50%,14.50%,5%
+BMNR,Bitmine Immersion Tech,NYSE,Technology,Financial Technology (Fintech) & Infrastructure,$10.12B,-18.5x,14.17,$56.65 ,0.30%,5.9% Upside,Bitmine Immersion Tech,BMNR,1.43,15.06,0.3x,0.4x,65.20%,22.70%,0%
+VIPS,Vipshop,NYSE,Technology,Software & IT Services,$10.01B,9.2x,-0.74,$20.30 ,-0.50%,-10% Downside,Vipshop,VIPS,0.71,0.67,1x,1.3x,17.80%,9.90%,-27%
