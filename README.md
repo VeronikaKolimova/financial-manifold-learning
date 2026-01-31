@@ -66,11 +66,20 @@ A comprehensive machine learning project exploring dimensionality reduction tech
 
 ### Лучшая модель классификации
 ![Границы решений LLE+RF](images/lle_rf_decision_boundaries.png)
+
 *LLE + Random Forest: Accuracy = 0.812, F1 (macro) = 0.553*
 
 ### Сравнение метрик моделей
-| Метод   | Модель          | Accuracy | F1 (weighted) | F1 (macro) |
-|---------|-----------------|----------|---------------|------------|
-| LLE     | Random Forest   | **0.812**| 0.731         | **0.553**  |
-| UMAP    | Random Forest   | 0.688    | 0.665         | 0.543      |
-| t-SNE   | Random Forest   | 0.688    | 0.562         | 0.257      |
+
+| Method | Model           | Accuracy | F1 (weighted) | F1 (macro) |
+|--------|-----------------|----------|---------------|------------|
+| MDS    | Decision Tree   | 0.500    | 0.479         | 0.238      |
+| MDS    | Random Forest   | 0.562    | 0.469         | 0.107      |
+| ISOMAP | Decision Tree   | 0.625    | 0.543         | 0.165      |
+| ISOMAP | Random Forest   | 0.625    | 0.552         | 0.255      |
+| LLE    | Decision Tree   | 0.750    | 0.668         | 0.410      |
+| LLE    | Random Forest   | 0.812    | 0.731         | 0.553      |
+| t-SNE  | Decision Tree   | 0.688    | 0.631         | 0.239      |
+| t-SNE  | Random Forest   | 0.688    | 0.562         | 0.257      |
+| UMAP   | Decision Tree   | 0.688    | 0.688         | 0.543      |
+| UMAP   | Random Forest   | 0.688    | 0.636         | 0.403      |
