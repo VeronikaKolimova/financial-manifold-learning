@@ -11,11 +11,11 @@
 
 **RU:** Сравнительное исследование методов снижения размерности (MDS, t-SNE, UMAP, ISOMAP, LLE) на данных NYSE.
 
----
+
 
 ## 🚀 Quick Start / Быстрый старт
 
-### 📦 Local Installation / Локальная установка
+###  Local Installation / Локальная установка
 
 ```bash
 # Clone repository
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 # Launch Jupyter
 jupyter notebook
-
+```
 A comprehensive machine learning project exploring dimensionality reduction techniques applied to NYSE financial data. This repository demonstrates how to transform high-dimensional financial metrics into 2D/3D visualizations using various manifold learning algorithms.
 
 ## Features
